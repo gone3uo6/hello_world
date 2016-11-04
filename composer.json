@@ -8,12 +8,12 @@
     {
       "name": "Ryan Bitting (gone3uo6)",
       "homepage": "http://www.ryanbitting.com",
-      "role": "master_mind"
+      "role": "master"
     }
   ],
   "support": {
     "issues": "http://www.ryanbitting.com/issues",
   },
   "license": "GPL-2.0+",
-  "minimum-stability": "dev",
+  "minimum-stability": "dev"
 }
