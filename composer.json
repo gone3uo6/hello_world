@@ -3,4 +3,17 @@
   "description": "This is an exmaple composer.json for hello_world module.",
   "type": "drupal-module",
   "license": "GPL-2.0+"
+  "homepage": "http://drupal.ryanbitting.com/hello_world",
+  "authors": [
+    {
+      "name": "Ryan Bitting (gone3uo6)",
+      "homepage": "http://www.ryanbitting.com",
+      "role": "master_mind"
+    }
+  ],
+  "support": {
+    "issues": "http://www.ryanbitting.com/issues",
+  },
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
 }
