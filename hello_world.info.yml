@@ -15,7 +15,7 @@ test_dependencies:
 
 configure: hello_world.settings
 
-hidden: true
+hidden: false
 
 # Note: do not add the 'version' property yourself!
 # It will be added automatically by the packager on drupal.org
