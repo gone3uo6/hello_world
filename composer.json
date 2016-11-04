@@ -2,7 +2,7 @@
   "name": "drupal/hello_world",
   "description": "This is an exmaple composer.json for hello_world module.",
   "type": "drupal-module",
-  "license": "GPL-2.0+"
+  "license": "GPL-2.0+",
   "homepage": "http://drupal.ryanbitting.com/hello_world",
   "authors": [
     {
