@@ -1,6 +1,6 @@
 name: Hello World Module
 description: Creates a page showing "Hello World".
-package: Custom
+package: Practice
 
 type: module
 core: 8.x
