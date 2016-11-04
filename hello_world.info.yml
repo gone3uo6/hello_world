@@ -4,3 +4,18 @@ package: Practice
 
 type: module
 core: 8.x
+
+dependencies:
+  - datetime:datetime
+  - link:link
+  - drupal:views
+
+test_dependencies:
+  - drupal:image
+
+configure: hello_world.settings
+
+hidden: true
+
+# Note: do not add the 'version' property yourself!
+# It will be added automatically by the packager on drupal.org
