@@ -1,0 +1,9 @@
+hello-slider:
+  version: 1.x
+  css:
+    theme:
+      css/hello-slider.css: {}
+  js:
+    js/hello-slider.js: {}
+  dependencies:
+    - core/jquery
